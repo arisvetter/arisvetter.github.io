@@ -1,3 +1,3 @@
 # arisvetter.github.io
 
-hello
+Hi! Welcome to my GitHub page!
